@@ -1,0 +1,9 @@
+{
+  "name": "MySinkConnectorConnector_0",
+  "config": {
+    "name": "MySinkConnectorConnector_0",
+    "connector.class": "ru.vershinin.sink.MySinkConnector",
+    "tasks.max": "1",
+    "topics": "test"
+  }
+}

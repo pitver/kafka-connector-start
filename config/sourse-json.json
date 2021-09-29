@@ -1,0 +1,11 @@
+{
+  "name":"MySourceConnectorInstance",
+  "config":{
+    "connector.class":"MySourceConnector",
+    "tasks.max":"1",
+    "url.to.analyze":"http://www.engadget.com",
+    "output.topic.name": "test"
+
+  }
+
+}
