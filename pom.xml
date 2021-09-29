@@ -35,7 +35,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- required -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
